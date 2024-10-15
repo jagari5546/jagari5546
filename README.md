@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi Fellas👋
+- I'm currently studying Software Engineering, soon to become graduate.
+- I love game developing and programming, currently working on some personal projects.
+- Learning new tings everyday and hoping to learn even more.
 
 <!--
 **jagari5546/jagari5546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
