@@ -8,11 +8,19 @@
 - Cambrigde Certified B2 in english.
 
 ## 🤝Social Media
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="juan-andrés-gaviria-arias-824736320" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/juan-andr%C3%A9s-gaviria-arias-824736320?trk=profile-badge">Juan Andrés Gaviria Arias</a></div>
-
-
-
-              
+<div class="badge-base LI-profile-badge" 
+     data-locale="es_ES" 
+     data-size="medium" 
+     data-theme="dark" 
+     data-type="VERTICAL" 
+     data-vanity="juan-andrés-gaviria-arias-824736320" 
+     data-version="v1">
+     
+  <a class="badge-base__link LI-simple-link" 
+     href="https://co.linkedin.com/in/juan-andr%C3%A9s-gaviria-arias-824736320?trk=profile-badge">
+     Juan Andrés Gaviria Arias
+  </a>
+</div>
 
 <a href="https://www.instagram.com/juangaviria_23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dmoon19.png" height="30" width="40" /></a>
 
